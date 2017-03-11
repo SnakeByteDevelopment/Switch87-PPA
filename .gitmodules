@@ -1,0 +1,3 @@
+[submodule "intellij-idea-ultimate"]
+	path = intellij-idea-ultimate
+	url = git@github.com:switch87/intellij-idea-ultimate
